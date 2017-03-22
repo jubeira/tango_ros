@@ -29,5 +29,6 @@ dependencies {
     compile 'org.ros.rosjava_messages:dynamic_reconfigure:[0.3,)'
     compile 'com.android.support:support-v4:25.2.0'
     compile 'com.android.support:design:25.2.0'
+    compile 'org.ros.rosjava_messages:messages_tango_ros[0.0,)'
     compile project(':tango_ros_node')
 }
